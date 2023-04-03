@@ -1,0 +1,30 @@
+.header {
+  background-color: #f1f3ff;
+  min-height: 50vh;
+  display: flex;
+  align-content: center;
+  text-align: start;
+  margin-top: 2rem;
+}
+
+.mobil {
+  padding-top: 150px;
+  position: relative;
+  left: 20px;
+}
+.judul {
+  padding-top: 177px;
+}
+
+.Testi {
+  background-color: #f1f3ff;
+}
+
+.Kedua {
+  margin-top: 3rem;
+}
+
+.Search {
+  height: 50rem;
+  padding-top: 20rem;
+}
