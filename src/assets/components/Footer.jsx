@@ -11,16 +11,16 @@ export const Footer = () => {
             <p>081-233-334-808</p>
           </div>
           <div className="col-md-2 d-flex flex-column">
-            <a href="#our-services" className="text-decoration-none mb-3">
+            <a href="#our-service" className="text-decoration-none mb-3">
               Our services
             </a>
-            <a href="#why-us" className="text-decoration-none mb-3">
+            <a href="#Whyus" className="text-decoration-none mb-3">
               Why Us
             </a>
-            <a href="#testimonial" className="text-decoration-none mb-3">
+            <a href="#Testimonial" className="text-decoration-none mb-3">
               Testimonial
             </a>
-            <a href="#faq" className="text-decoration-none mb-3">
+            <a href="#FAQ" className="text-decoration-none mb-3">
               FAQ
             </a>
           </div>

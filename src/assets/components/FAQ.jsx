@@ -12,7 +12,7 @@ export const FAQ = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua.{" "}
           </p>
-          <a href="" className="btn btn-success">
+          <a href="/Carimobil" className="btn btn-success">
             Mulai Sewa Mobil
           </a>
         </div>
